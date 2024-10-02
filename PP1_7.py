@@ -32,7 +32,7 @@ def q5():
   number4=40
   number4=int(number4)
   bool=number3>number4
-  print(f"Number {number}*{number2}  is: {number3}")
+  print(f"Your numbers multiplied together are greater than 40: {bool}")
   print(bool)
 #Do edit the code below
 #Comment the lines below when running your tests
